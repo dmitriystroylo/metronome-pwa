@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 2rem;
+}
+
+input[type=range] {
+  width: 80%;
+  margin: 1rem 0;
+}
+
+button {
+  padding: 1rem 2rem;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
